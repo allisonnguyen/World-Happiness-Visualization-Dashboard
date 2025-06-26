@@ -53,6 +53,18 @@ An interactive data visualization tool built with Python and PyQt6 to explore th
 
 ### Prerequisites
 
+If you don’t already have Conda installed, download and install **Anaconda**:
+- [Anaconda (recommended)](https://www.anaconda.com/products/distribution)
+
+It’s recommended to use a dedicated Conda environment for this project:
+
+```bash
+conda create -n happiness_viz python=3.11.8
+conda activate happiness_viz
+```
+
+⚠️ This project was developed using Python 3.11.8. Newer versions of Python may not be compatible with all required packages (especially PyQt6 and GeoPandas).
+
 Install the required Python packages:
 
 ```bash

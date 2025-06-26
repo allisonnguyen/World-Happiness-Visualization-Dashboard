@@ -92,5 +92,5 @@ python toggle.py
 - Data merging between files required careful handling.
 
 ## 👥 Authors
-- Danial Tleuzhanov
+- Danial Tleuzhanov (https://github.com/DanialTleuzhanov)
 - Allison Nguyen
